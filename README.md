@@ -4,7 +4,7 @@ Node Addon for CryptProtectData/CryptUnprotectData of Win32 API to encrypt/decry
 "Typically, only a user with the same logon credential as the user who encrypted the data can decrypt the data. In addition, the encryption and decryption usually must be done on the same computer"
 [CryptProtectData Win32 documentation](https://learn.microsoft.com/en-us/windows/win32/api/dpapi/nf-dpapi-cryptprotectdata)
 
-By combining an additional password this could be a powerfull tool to store passwords, api keys or any secret securly
+By combining with an additional password this could be a powerfull tool to store passwords, api keys or any secret securely
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/hmenyus)
 
